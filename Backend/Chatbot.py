@@ -5,13 +5,13 @@ import requests
 import datetime
 from groq import Groq
 
+def get_env_var(key: str):
+    return env_vars.get(key) or os.getenv(key)
 env_vars = dotenv_values(".env")
 
-Username = env_vars.get("Username")
-Assistantname = env_vars.get("Assistantname")
-GroqAPIKey = env_vars.get("GroqAPIKey")
-
-client = Groq(api_key=GroqAPIKey)
+Username = get_env_var("Username")
+Assistantname = get_env_var("Assistantname")
+GroqAPIKey = get_env_var("GroqAPIKey")
 
 messages = []
 

@@ -1,12 +1,13 @@
 import cohere  # Import the Cohere library for AI services
 from rich import print  # Import the Rich print function for enhanced terminal outputs
 from dotenv import dotenv_values  # Import dotenv to load environment variables from a .env file
-
+def get_env_var(key: str):
+    return env_vars.get(key) or os.getenv(key)
 # Load environment variables from the .env file
 env_vars = dotenv_values(".env")
 
 # Retrieve the API key
-CohereAPIKey = env_vars.get("CohereAPIKey")
+CohereAPIKey = get_env_var("CohereAPIKey")
 
 # Create a Cohere client using the provided API key
 co = cohere.Client(api_key=CohereAPIKey)
