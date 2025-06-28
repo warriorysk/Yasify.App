@@ -1,0 +1,146 @@
+[
+    {
+        "role": "user",
+        "content": "who is jhonwick"
+    },
+    {
+        "role": "assistant",
+        "content": "John Wick is a fictional character and the main protagonist of a series of action-thriller films. He is portrayed by Keanu Reeves in the title role. John Wick is a retired hitman who seeks vengeance against a group of criminals who killed his dog, a gift from his deceased wife. The character has become a cult figure, known for his exceptional fighting skills, stylish suits, and dog-loving nature. The John Wick franchise has spawned four films so far, with a fifth one announced."
+    },
+    {
+        "role": "user",
+        "content": "\"/Users/yaswanthsaikiranpedapudi/Desktop/ai assistant/.venv/bin/python\" \"/Users/yaswanthsaikiranpedapudi/Desktop/ai assistant/Backend/RealTimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This appears to be a command to run a Python script named \"RealTimeSearchEngine.py\" located in the \"Backend\" directory, using a virtual environment (.venv) on a Mac computer."
+    },
+    {
+        "role": "user",
+        "content": "about latest war new in iran "
+    },
+    {
+        "role": "assistant",
+        "content": "According to recent news, there are no ongoing wars in Iran. However, Iran has been involved in several regional conflicts and tensions in the Middle East. One of the most recent developments is the ongoing Iran-Israel proxy conflict, which has seen a series of attacks and retaliations between the two countries. Additionally, Iran has been involved in the Yemen civil war, supporting the Houthi rebels against the Saudi-led coalition. There have also been tensions between Iran and the United States, particularly since the US withdrawal from the Joint Comprehensive Plan of Action (JCPOA) in 2018."
+    },
+    {
+        "role": "user",
+        "content": "when was airindia fligh got crashsed"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Air India Flight 855 crashed off the coast of Bandra, Bombay (now Mumbai), on January 1, 1978."
+    },
+    {
+        "role": "user",
+        "content": "recent air crash"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, a recent air crash involved Air India Flight 171, which crashed shortly after takeoff from Ahmedabad. The incident occurred on June 26, 2025."
+    },
+    {
+        "role": "user",
+        "content": "\"/Users/yaswanthsaikiranpedapudi/Desktop/ai assistant/.venv/bin/python\" \"/Users/yaswanthsaikiranpedapudi/Desktop/ai assistant/Backend/websocket.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "This command is used to run a Python script named \"websocket.py\" located in the \"Backend\" directory, using a virtual environment (.venv) on a Mac computer. The script is likely related to establishing a WebSocket connection, which is a protocol that enables bidirectional, real-time communication between a client and a server over the web."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"Who was Akbar?\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Akbar was the third Mughal Emperor of India, who ruled from 1556 to 1605. He was one of the most successful emperors in Indian history, known for his military conquests, administrative skills, and cultural achievements."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"tata motars stock price\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Tata Motors is not provided in real-time. However, I can provide you with some historical data:\n\n* On December 26, 2024, Tata Motors closed at \u20b9740.8, up 0.6% from the previous day.\n* On July 27, 2023, Tata Motors stock price went up by 0.18%.\n* On February 18, 2025, Tata Motors closed at \u20b9681.60, down 0.71% from the previous day.\n\nPlease note that these prices may not reflect the current stock price. For the latest information, I recommend checking a financial website or a stock exchange platform."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"tata motars stock price\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff on June 28, 2025, I don't have the current real-time stock price of Tata Motors. However, I can provide you with some historical data:\n\n* On December 26, 2024, Tata Motors closed at \u20b9740.8, up 0.6% from the previous day.\n* On July 27, 2023, Tata Motors stock price went up by 0.18%.\n* On February 18, 2025, Tata Motors closed at \u20b9681.60, down 0.71% from the previous day.\n\nFor the latest and current stock price, I recommend checking a financial website or a stock exchange platform."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"tata motars stock price\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff on June 28, 2025, I don't have the current real-time stock price of Tata Motors. However, I can suggest checking a financial website or a stock exchange platform for the latest information."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"who is nnnann\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"who is nnnann\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"who is mukesh\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "There are multiple individuals named Mukesh. Based on my search results, here are a few notable ones:\n\n1. Mukesh Ambani: He is an Indian business magnate and the chairman, managing director, and largest shareholder of Reliance Industries Limited, a Fortune Global 500 company and India's most valuable company by market value.\n2. Mukesh Kumar: He is an Indian cricketer who plays for the Indian national cricket team.\n3. Mukesh (ragpicker): He is a character in a story from the CBSE Class 12 English curriculum, \"Lost Spring\", and is a young boy from Firozabad who is forced into child labor as a ragpicker.\n\nPlease provide more context or information if you are referring to a specific Mukesh."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"hello guide me to buy mango\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"about shubham\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, there are multiple individuals and organizations with the name \"Shubham\". Here are a few:\n\n1. Shubham Specialty Products: A company that seems to be engaged in some kind of manufacturing or production.\n2. Shubham University: An educational institution that offers various programs.\n3. Shubham Housing Finance: A financial institution that provides home loans and other financial services.\n4. Shubham Dubey: A history tutor who offers teaching services.\n5. Shubham Shandilya: A stand-up comedian from Delhi who performs at events.\n\nIf you could provide more context or information about which Shubham you are looking for, I'd be happy to help further."
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"how to plsy footbsll\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "{\n  \"query\": \"about amabani in 100 lines\"\n}\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Since you provided an empty search result, I'll provide a brief overview of Anand Mahindra in 100 lines:\n\nAnand Mahindra is an Indian businessman and the Chairman of the Mahindra Group, a multinational conglomerate. He is the grandson of Jagdish Chandra Mahindra, the founder of the company.\n\nAnand Mahindra was born on May 1, 1955, in Mumbai, India. He holds a degree in Mechanical Engineering from the University of Michigan and an MBA from Harvard Business School.\n\nUnder his leadership, the Mahindra Group has diversified into various sectors, including automotive, agriculture, IT, and finance. He has been instrumental in transforming the company into a global brand.\n\nAnand Mahindra is known for his innovative approach to business and his commitment to sustainability and social responsibility. He has received numerous awards and honors for his contributions to Indian industry and society.\n\nHe is also an active user of social media, where he shares his thoughts on various topics, including business, technology, and social issues."
+    },
+    {
+        "role": "user",
+        "content": "Who is the president of India?"
+    },
+    {
+        "role": "assistant",
+        "content": "The President of India is Smt. Droupadi Murmu. She was sworn in as the 15th President of India on July 25, 2022."
+    }
+]
