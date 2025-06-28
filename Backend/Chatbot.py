@@ -4,6 +4,7 @@ from dotenv import dotenv_values
 import requests
 import datetime
 from groq import Groq
+import os
 
 def get_env_var(key: str):
     return env_vars.get(key) or os.getenv(key)

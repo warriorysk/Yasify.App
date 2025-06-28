@@ -1,3 +1,4 @@
+import os
 import cohere  # Import the Cohere library for AI services
 from rich import print  # Import the Rich print function for enhanced terminal outputs
 from dotenv import dotenv_values  # Import dotenv to load environment variables from a .env file
